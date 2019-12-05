@@ -1,0 +1,5 @@
+# IdeaIDE
+.idea
+
+/.idea/*.xml
+*.xml

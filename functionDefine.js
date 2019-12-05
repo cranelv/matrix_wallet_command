@@ -1,0 +1,18 @@
+module.exports = {
+    dataBase : "function10",
+    from : "function20",
+    to : "function25",
+    file : "function26",
+    amount : "function30",
+    txlist : "function35",
+    contract:"function40",
+    Extra:"function42",
+    gas : "function43",
+    log: "function44",
+    submit: "function45",
+    password:"function46",
+    trans:"function65",
+    txReceipt:"function69",
+    insertDb:"function70",
+    end:"function99",
+}
